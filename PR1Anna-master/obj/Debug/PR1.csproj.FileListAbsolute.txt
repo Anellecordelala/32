@@ -1,0 +1,11 @@
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\bin\Debug\PR1.exe.config
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\bin\Debug\PR1.exe
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\bin\Debug\PR1.pdb
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.csproj.AssemblyReference.cache
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.Form1.resources
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.Form2.resources
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.Properties.Resources.resources
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.csproj.GenerateResource.cache
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.exe
+C:\Users\guena\Downloads\PR1Anna-master\PR1Anna-master\obj\Debug\PR1.pdb
