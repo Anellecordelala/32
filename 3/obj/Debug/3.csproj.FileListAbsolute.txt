@@ -1,0 +1,32 @@
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\bin\Debug\3.exe.config
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\bin\Debug\3.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\bin\Debug\3.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\_3.Form1.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\3.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\3\obj\Debug\3.pdb
+C:\Users\guena\Downloads\3-main\3-main\3\bin\Debug\3.exe.config
+C:\Users\guena\Downloads\3-main\3-main\3\bin\Debug\3.exe
+C:\Users\guena\Downloads\3-main\3-main\3\bin\Debug\3.pdb
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\_3.Form1.resources
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\_3.Form2.resources
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\3.exe
+C:\Users\guena\Downloads\3-main\3-main\3\obj\Debug\3.pdb
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\bin\Debug\3.exe.config
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\bin\Debug\3.exe
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\bin\Debug\3.pdb
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\_3.Form1.resources
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\_3.Form2.resources
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\3.exe
+C:\Users\guena\OneDrive\Рабочий стол\Практика разработка кода информационной системы\3-main\3-main\3\obj\Debug\3.pdb
